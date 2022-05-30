@@ -1,0 +1,23 @@
+.BooksFormGroup{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+.BooksFormGroup label{
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: 500px ;
+    color: #555;
+}
+.BooksFormGroup input{
+    border: 1px solid #aaa;
+    border-radius: 8px;
+    background-color: #fff;
+    height: 36px;
+    padding: 0 10px;
+}
+.BooksFormButton{
+    display: flex;
+    justify-content: space-between;
+
+}

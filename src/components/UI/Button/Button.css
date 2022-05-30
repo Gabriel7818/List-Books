@@ -1,0 +1,48 @@
+.uiButton{
+    background-color: unset;
+    border-radius:4px;
+    color: #000;
+    text-decoration: none;
+    padding: 8px 10px 10px;
+    white-space: nowrap;
+    margin-left: 2px;
+}
+
+.uiButton--bordered-primary{
+    color: #000;
+    border: 1px solid #000;
+    margin-top: 10px;
+}
+
+.uiButton--contained-success{
+    background-color: unset;
+    border: 1px solid #0e96f0;
+    border-radius:4px;
+    color: #0ef052;
+    text-decoration: none;
+    padding: 6px 10px;
+    white-space: nowrap;
+}
+
+.uiButton--border-warning{
+    background-color: unset;
+    border: 1px solid #f0c60e;
+    border-radius:4px;
+    color: #f0c60e;
+    text-decoration: none;
+    padding: 6px 10px;
+    white-space: nowrap;
+}
+
+.uiButton--contained-primary{
+    color: #fff;
+    background-color: #2ecc2e;
+    border: 1px solid #2ecc2e;
+}
+
+.uiButton--contained-warning{
+    color: #fff;
+    background-color: #f0c60e;
+    border: 1px solid #f0c60e;
+
+}
